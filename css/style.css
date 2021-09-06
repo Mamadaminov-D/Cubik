@@ -24,7 +24,7 @@
   .container1 {
     position: absolute;
     top: 50%;
-    left:31%;
+    left:39%;
     transform: translate(-50%, -50%);
     width: 162px;
     height: 162px;
@@ -35,7 +35,7 @@
   .container2 {
     position: absolute;
     top: 50%;
-    left:69%;
+    left:61%;
     transform: translate(-50%, -50%);
     width: 162px;
     height: 162px;
